@@ -1,15 +1,17 @@
 # Linux Notes
 
 ## About
-This repository contains my Linux learning notes as I prepare for a career in cybersecurity.
+This repository contains my Linux and cybersecurity learning notes for my jouney in cybersecurity.
 
 ## Topics
-- Linux basics
-- File system
-- Permissions
-- Users and Groups
+- Linux Basics
 - Networking
-- Bash commands
-- Shell scripting
+- Nmap
+- Hydra
+- SQL Injection
+
+## Labs & Wargames
+- OverTheWire: Bandit
+- OverTheWire: Natas
 
 I will keep updating this repository as I learn.
